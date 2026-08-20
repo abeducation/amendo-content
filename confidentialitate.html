@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Politica de confidențialitate - Amendo</title>
+<meta name="description" content="Ce se întâmplă cu datele tale când folosești Amendo: nimic nu pleacă de pe telefon. Politica de confidențialitate completă.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <a class="mark" href="index.html"><span class="glyph"></span>Amendo</a>
+    <nav class="site">
+      <a href="index.html">Aplicația</a>
+      <a href="confidentialitate.html">Confidențialitate</a>
+      <a href="independenta.html">Independență</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+
+<h1>Politica de confidențialitate</h1>
+<p class="updated">Ultima actualizare: 20 august 2026</p>
+
+<p>Amendo este o aplicație independentă, realizată de o singură persoană
+("noi", mai jos), care explică amenzile și legislația fiscală ANAF în limbaj
+simplu, alături de textul oficial nemodificat.</p>
+
+<div class="note">
+  <p><strong>Aplicație independentă. Nu este afiliată ANAF sau altei
+  instituții publice.</strong></p>
+</div>
+
+<p>Acest document descrie exact ce se întâmplă cu datele tale când folosești
+Amendo. Nu conține clauze-șablon care nu se aplică: fiecare paragraf de mai jos
+descrie un comportament real al aplicației.</p>
+
+<h2>Rezumat</h2>
+
+<div class="card">
+  <ul>
+    <li>Nu avem cont de utilizator, nu cerem autentificare, nu colectăm date
+      personale.</li>
+    <li>Nu folosim instrumente de analiză, SDK-uri de reclame sau mecanisme de
+      urmărire.</li>
+    <li>Datele amenzii tale rămân pe telefon, într-un fișier local - niciodată
+      pe un server al nostru, pentru că nu avem un server pentru asta.</li>
+    <li>Aplicația se conectează la internet într-un singur scop: verifică, cel
+      mult o dată pe săptămână, dacă fișierul public cu legislația s-a
+      actualizat.</li>
+  </ul>
+</div>
+
+<h2>Ce date NU colectăm</h2>
+
+<p>Amendo nu colectează, nu stochează pe un server și nu transmite:</p>
+
+<ul>
+  <li>nume, adresă, e-mail, număr de telefon sau orice alt identificator
+    personal - nimic din acestea nu ajunge la noi. Numele tău, dacă alegi să îl
+    completezi în Profil, rămâne pe telefon și e folosit doar în salut și în
+    plângerea pe care o generezi;</li>
+  <li>locația ta;</li>
+  <li>contactele, fotografiile, fișierele sau calendarul telefonului;</li>
+  <li>date financiare. Dacă ai cumpărat aplicația, plata a fost procesată
+    integral de Google Play; noi nu primim și nu vedem datele cardului tău.
+    Aplicația nu procesează plăți și nu are cumpărături în aplicație;</li>
+  <li>un identificator de dispozitiv sau de publicitate (advertising ID);</li>
+  <li>statistici de utilizare, jurnale de erori sau orice altă formă de
+    măsurare a comportamentului tău - aplicația nu conține niciun SDK de
+    analiză, de reclame sau de raportare a erorilor (Firebase, Google
+    Analytics, AdMob sau echivalent).</li>
+</ul>
+
+<p>Nu există cont de utilizator, deci nu există parolă, e-mail sau profil de
+stocat undeva în afara telefonului tău.</p>
+
+<h2>Unde sunt stocate datele tale</h2>
+
+<p>Datele tale - amenzile pe care le adaugi, termenele calculate din ele și
+setările aplicației (profil, nume, notificări, temă) - sunt salvate
+<strong>exclusiv pe telefon</strong>:</p>
+
+<ul>
+  <li>amenzile pe care le adaugi sunt scrise într-un fișier JSON, în directorul
+    privat al aplicației, la care are acces doar Amendo;</li>
+  <li>setările tale sunt salvate local prin mecanismul standard Android
+    (<code>SharedPreferences</code>).</li>
+</ul>
+
+<p>Niciuna dintre aceste date nu este trimisă către noi sau către altcineva.
+Dacă dezinstalezi aplicația, datele dispar odată cu ea - nu există o copie pe
+un server, pentru că niciodată nu a existat una.</p>
+
+<h2>Singura dată când aplicația se conectează la internet</h2>
+
+<p>Legislația se schimbă. Ca să nu fii nevoit să reinstalezi aplicația de
+fiecare dată când apare o corectură, Amendo verifică, <strong>cel mult o dată
+pe săptămână</strong>, dacă există o versiune mai nouă a catalogului de legi și
+amenzi pe un fișier public, static (<code>data.json</code>), găzduit pe o
+pagină GitHub Pages publică.</p>
+
+<p>Această verificare este o simplă cerere HTTP GET către un fișier public:</p>
+
+<ul>
+  <li>nu trimite numele tău, dosarele tale, setările tale sau orice alt
+    conținut din aplicație;</li>
+  <li>nu conține un identificator de utilizator, cookie sau token - este
+    identică, byte cu byte, indiferent cine o face;</li>
+  <li>dacă nu are succes (fără internet, server indisponibil), aplicația
+    continuă să funcționeze normal, folosind conținutul deja inclus în ea.</li>
+</ul>
+
+<p>Ca la orice cerere către orice pagină web publică, infrastructura care
+găzduiește acest fișier (GitHub Pages) poate păstra jurnale tehnice standard de
+server (de exemplu adresa IP și momentul cererii) - exact ca la vizitarea
+oricărui site public. Amendo nu are acces la aceste jurnale, nu le solicită și
+nu le folosește; ele nu sunt "colectate" de aplicație, ci sunt o consecință
+obișnuită a modului în care funcționează internetul, în afara controlului
+aplicației.</p>
+
+<h2>Notificări</h2>
+
+<p>Notificările despre termenele tale (de exemplu "mai sunt 3 zile până la
+termenul de contestare") sunt programate <strong>local, pe telefon</strong>,
+prin componenta standard de notificări a Android. Nu există un server de
+notificări push: nimic din conținutul lor nu părăsește telefonul.</p>
+
+<h2>Plângerea contravențională (PDF)</h2>
+
+<p>Dacă generezi o plângere contravențională, aceasta este creată
+<strong>integral pe telefon</strong>, din datele dosarului tău. Amendo nu o
+trimite nicăieri. Dacă alegi să o trimiți mai departe (de exemplu prin
+e-mail), asta se întâmplă doar când apeși explicit butonul de partajare - și
+doar prin meniul de partajare standard al Android (share sheet), unde tu alegi
+aplicația destinatară (e-mail, WhatsApp, Drive etc.). Amendo nu are propriul
+canal de trimitere și nu vede ce alegi să faci cu fișierul după ce l-ai
+partajat.</p>
+
+<h2>Copii de rezervă și ștergerea datelor</h2>
+
+<p>Pentru că nu există nicio copie a datelor tale în afara telefonului, nu avem
+noi ce să ștergem. Ai două căi: dezinstalezi aplicația, sau intri în Setări
+&gt; "Datele tale" &gt; "Șterge toate datele", care readuce aplicația la starea
+de la prima instalare.</p>
+
+<h2>Linkuri către site-uri publice</h2>
+
+<p>Din ecranele de lege poți deschide sursa oficială - legislatie.just.ro,
+static.anaf.ro, mfinante.gov.ro - în browserul telefonului. Deschiderea se face
+la cererea ta, printr-un link obișnuit; nu trimitem nimic despre tine către
+acele site-uri, dar odată ajuns acolo se aplică politica lor.</p>
+
+<h2>Aplicația și minorii</h2>
+
+<p>Amendo nu se adresează în mod special copiilor. Cum nu colectăm date de la
+niciun utilizator, nu colectăm nici date despre minori.</p>
+
+<h2>Modificări ale acestei politici</h2>
+
+<p>Orice modificare a acestui document va fi publicată pe aceeași pagină, cu
+data actualizării schimbată în antet. Pentru că această pagină este găzduită pe
+același repository public ca și catalogul de legislație, istoricul modificărilor
+este vizibil public (istoricul de commit-uri).</p>
+
+<h2>Contact</h2>
+
+<p>Pentru întrebări despre această politică sau despre date:
+<a href="mailto:andreialgebo@gmail.com">andreialgebo@gmail.com</a>.</p>
+
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    Amendo - aplicație independentă. Nu este afiliată ANAF sau altei instituții
+    publice. &middot; <a href="index.html">Prima pagină</a>
+  </div>
+</footer>
+
+</body>
+</html>
