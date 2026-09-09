@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "version": 2,
-  "updatedAt": "2026-08-20",
+  "version": 3,
+  "updatedAt": "2026-08-23",
 
   "acts": [
     { "id": "og2-2001", "cite": "O.G. 2/2001", "name": "Regimul juridic al contravențiilor", "provisions": [],
@@ -29,7 +29,7 @@
           { "title": "Avertismentul și proporționalitatea",
             "photo": "og2-2001-3",
             "body": "Avertismentul nu este un gest de bunăvoință, ci o sancțiune principală de sine stătătoare. El constă în atenționarea verbală sau scrisă asupra pericolului social al faptei, însoțită de recomandarea de a respecta legea, și se aplică atunci când fapta este de gravitate redusă. Ceea ce contează cel mai mult este că avertismentul poate fi aplicat chiar și atunci când actul normativ care descrie contravenția nu îl prevede deloc printre sancțiuni.\n\nAceastă posibilitate se leagă de regula proporționalității. Sancțiunea trebuie stabilită în limitele actului normativ și trebuie să fie proporțională cu gradul de pericol social al faptei, ținându-se seama de împrejurările în care a fost săvârșită, de modul și mijloacele de săvârșire, de scopul urmărit, de urmarea produsă și de circumstanțele tale personale. Pentru una și aceeași contravenție se poate aplica o singură sancțiune principală, la care se pot adăuga sancțiuni complementare precum confiscarea, suspendarea unei autorizații sau suspendarea activității. Când instanța înlocuiește amenda cu avertisment, aceasta se comunică printr-o încunoștințare scrisă." },
-          { "title": "Ce se întâmplă după aceea aceea ce termenul a trecut",
+          { "title": "Ce se întâmplă după ce termenul a trecut",
             "photo": "og2-2001-4",
             "body": "Un proces-verbal neatacat în cele 15 zile devine titlu executoriu, fără nicio altă formalitate, la fel ca o hotărâre judecătorească definitivă. Din acel moment nu mai există o etapă de confirmare: organul din care face parte agentul constatator transmite actul, în 30 de zile de la expirarea termenului, organului fiscal competent, iar executarea se face în condițiile legislației privind executarea silită a creanțelor fiscale. În practică, executarea silită înseamnă poprire pe conturi sau pe venituri și, după caz, sechestru.\n\nÎmpotriva actelor de executare se poate face contestație la executare, dar aceasta atacă modul în care se execută, nu temeinicia amenzii. Discuția despre fapta în sine s-a închis odată cu termenul de 15 zile.\n\nExistă și o supapă. Dacă amenda nu a fost achitată în 30 de zile de la rămânerea definitivă a sancțiunii și nu există posibilitatea executării silite, instanța poate înlocui amenda cu prestarea unei activități în folosul comunității, maximum 50 de ore, sau 25 de ore pentru minorii care au împlinit 16 ani. Supapa aceasta se aplică numai contravenienților persoane fizice (art. 6 alin. (2)), deci o firmă nu o poate folosi." }
         ],
@@ -54,7 +54,7 @@
         "glossary": [
           { "term": "proces-verbal de constatare a contravenției", "def": "Actul scris prin care agentul constatator descrie fapta și, de regulă, aplică și sancțiunea. Este în același timp titlu de creanță și înștiințare de plată." },
           { "term": "agent constatator", "def": "Persoana anume împuternicită prin lege să constate contravenția, de exemplu un inspector antifraudă sau un funcționar al organului fiscal." },
-          { "term": "nulitate absolută", "def": "Lipsa unuia dintre cele șase elemente enumerate în art. 17 desființează procesul-verbal, iar instanța constată nulitatea și din oficiu, fără să dovedești o vătămare." },
+          { "term": "nulitate absolută", "def": "Lipsa unuia dintre cele șapte elemente enumerate în art. 17 desființează procesul-verbal, iar instanța constată nulitatea și din oficiu, fără să dovedești o vătămare." },
           { "term": "nulitate relativă", "def": "Lipsa unei alte mențiuni obligatorii desființează actul numai dacă arăți că absența ți-a produs o vătămare concretă, de obicei imposibilitatea de a te apăra." },
           { "term": "prescripția aplicării", "def": "Intervalul după care sancțiunea nu mai poate fi aplicată: 6 luni de la faptă, dacă o lege specială nu prevede altfel." },
           { "term": "prescripția executării", "def": "Situația în care amenda nu mai poate fi pusă în executare pentru că procesul-verbal nu a fost comunicat în cel mult două luni de la aplicarea sancțiunii." },
@@ -157,7 +157,7 @@
           { "date": "2024-12-26", "title": "Plata cu cardul nu mai cere bon tipărit",
             "note": "Legea 317/2024 introduce art. 1 alin. (2^1): pentru încasările cu card de credit sau debit, comerciantul nu mai are obligația de a imprima și de a înmâna bonul fiscal. Îl poate tipări la cererea clientului, iar extrasul de cont ține locul bonului ca mijloc de probă a achiziției. Operațiunea trebuie în continuare înregistrată în aparat." },
           { "date": "2025-12-11", "title": "A doua suspendare a sancțiunii pentru codul QR",
-            "note": "O.U.G. 68/2025 (M.Of. 1132 din 8 decembrie 2025) suspendă până la 1 noiembrie 2026 aplicarea art. 10 lit. f) și art. 11 alin. (1) lit. h), dar numai pentru fapta de a emite bon fără codul beneficiarului, fără numărul bonului și fără codul QR. Este a doua suspendare: prima, prin O.U.G. 125/2024, a ținut de la 28 octombrie 2024 la 1 septembrie 2025, iar între septembrie și decembrie 2025 sancțiunea a fost din nou aplicabilă." },
+            "note": "O.U.G. 68/2025 (M.Of. 1132 din 8 decembrie 2025) suspendă până la 1 noiembrie 2026 aplicarea art. 10 lit. f) și art. 11 alin. (1) lit. h), dar numai pentru fapta de a emite bon fără codul beneficiarului, fără numărul bonului și fără codul QR. Este a doua suspendare: prima, prin O.U.G. 125/2024, a ținut de la 25 octombrie 2024 la 1 septembrie 2025, iar între septembrie și decembrie 2025 sancțiunea a fost din nou aplicabilă." },
           { "date": "2026-02-02", "title": "ISCTR primește competență proprie",
             "note": "O.G. 5/2026 introduce art. 12^1: Inspectoratul de Stat pentru Controlul în Transportul Rutier constată și sancționează el însuși faptele de la art. 10 lit. c), e), g) și dd) săvârșite de operatorii de transport rutier, iar suspendarea activității se execută prin reținerea plăcuțelor de înmatriculare ale autovehiculului." }
         ],
@@ -263,7 +263,7 @@
           { "date": "2023-12-16", "title": "Legitimare la distanță",
             "note": "Legea nr. 388/2023 permite prezentarea legitimației de inspecție și a ordinului de serviciu prin mijloace video de comunicare la distanță." },
           { "date": "2026-01-01", "title": "Selectarea aleatorie devine posibilă",
-            "note": "Intră în vigoare, cu întârziere față de adoptare, prevederile din O.U.G. nr. 188/2022 care permit selectarea aleatorie pentru inspecție fiscală și și pentru verificarea situației fiscale personale; selectarea aleatorie este plafonată la 10% din totalul selectat într-un an calendaristic." },
+            "note": "Intră în vigoare, cu întârziere față de adoptare, prevederile din O.U.G. nr. 188/2022 care permit selectarea aleatorie pentru inspecție fiscală și pentru verificarea situației fiscale personale; selectarea aleatorie este plafonată la 10% din totalul selectat într-un an calendaristic." },
           { "date": "2026-01-09", "title": "Titlul XI se mișcă din nou",
             "note": "O.U.G. nr. 71/2025 rescrie mai multe contravenții și adaugă altele noi, iar O.G. nr. 1/2026 adaugă încă una, de la 2 februarie 2026. Titlul XI se modifică aproximativ o dată pe trimestru." }
         ],
@@ -272,7 +272,7 @@
           { "term": "aviz de inspecție fiscală", "def": "Înștiințarea scrisă trimisă înaintea controlului, cu 30 de zile pentru marii contribuabili și 15 zile pentru ceilalți." },
           { "term": "contribuabil mare, contribuabil mijlociu", "def": "Categorii stabilite prin ordin al președintelui ANAF, pe baza unor criterii de mărime; ele schimbă atât cuantumul multor amenzi, cât și termenele procedurale." },
           { "term": "registrul unic de control", "def": "Registrul în care se consemnează controalele la sediul contribuabilului; data înscrisă acolo este data de începere a inspecției." },
-          { "term": "raport de inspecție fiscală", "def": "Documentul final al controlului, prezintă constatările în fapt și în drept, apoi stă la baza deciziei de impunere." },
+          { "term": "raport de inspecție fiscală", "def": "Documentul final al controlului; prezintă constatările în fapt și în drept, apoi stă la baza deciziei de impunere." },
           { "term": "decizie de impunere", "def": "Actul administrativ fiscal prin care se stabilesc sumele suplimentare rezultate din control." },
           { "term": "contestație", "def": "Calea administrativă de atac împotriva unui act administrativ fiscal, depusă în 45 de zile de la comunicare și soluționată de structura specializată din Ministerul Finanțelor. Nu este același lucru cu plângerea contravențională." },
           { "term": "notificare de conformare", "def": "Înștiințarea trimisă înaintea selectării pentru inspecție, care îți dă 30 de zile ca să depui sau să corectezi declarațiile." },
@@ -345,7 +345,7 @@
             "photo": "oug120-2021-4",
             "body": "Între firme stabilite în România, o factură care nu a trecut prin RO e-Factura nu este o factură incompletă, ci nu este factură. Regula nu se află în ordonanța e-Facturii, ci în Codul fiscal, unde art. 319 alin. (1^1) spune că pentru operațiunile între persoane impozabile stabilite în România sunt considerate facturi numai cele care îndeplinesc condițiile din O.U.G. 120/2021. De aici decurg toate celelalte efecte, pentru că deducerea TVA și documentul justificativ din contabilitate se sprijină pe existența unei facturi. De aceea legea sancționează două fapte, nu una: netransmiterea de către emitent și primirea și înregistrarea ei de către destinatar. Cumpărătorul nu este spectator. Legea îi dă și un instrument: dacă nu primește prin sistem, în termen, o factură pentru o livrare plătită la momentul livrării, poate notifica organul fiscal competent (Codul fiscal art. 319 alin. (1^1); O.U.G. 120/2021 art. 13^2 alin. (1) lit. a) și b), art. 10^9)." },
           { "title": "Amenda de 15%",
-            "body": "Amenda de 15 la sută din valoarea totală a facturii este construită altfel decât restul. Este o amendă contravențională, aplicată pentru cele două fapte de mai sus, dar este construită altfel decât restul amenzilor din dreptul contravențional român. Textul spune expres că se aplică prin derogare de la art. 8 alin. (2) lit. a) din O.G. 2/2001, adică de la regula generală care fixează un plafon în lei pentru amenzile stabilite prin ordonanță. Consecința este că amenda nu are un maxim propriu: crește proporțional cu factura. La o factură de 200.000 lei înseamnă 30.000 lei. Celelalte contravenții din același articol rămân la intervale clasice în lei, cu tranșe după mărimea contribuabilului, iar pentru depășirea termenului legea tratează toate facturile cu scadență în aceeași lună calendaristică drept o singură contravenție. Este o diferență de mecanică pe care merită să o vezi înainte, nu după (art. 13^2 alin. (2) și (3))." }
+            "body": "Amenda de 15 la sută din valoarea totală a facturii este o amendă contravențională, aplicată pentru cele două fapte de mai sus, dar construită altfel decât restul amenzilor din dreptul contravențional român. Textul spune expres că se aplică prin derogare de la art. 8 alin. (2) lit. a) din O.G. 2/2001, adică de la regula generală care fixează un plafon în lei pentru amenzile stabilite prin ordonanță. Consecința este că amenda nu are un maxim propriu: crește proporțional cu factura. La o factură de 200.000 lei înseamnă 30.000 lei. Celelalte contravenții din același articol rămân la intervale clasice în lei, cu tranșe după mărimea contribuabilului, iar pentru depășirea termenului legea tratează toate facturile cu scadență în aceeași lună calendaristică drept o singură contravenție. Este o diferență de mecanică pe care merită să o vezi înainte, nu după (art. 13^2 alin. (2) și (3))." }
         ],
         "timeline": [
           { "date": "2021-10-07", "title": "Ordonanța este publicată",
@@ -600,7 +600,7 @@
             "a": "Nu. Plafonul cu o persoană fizică este de 10.000 lei pe zi, iar împărțirea în tranșe tocmai pentru a rămâne sub el este definită în lege drept fragmentare și interzisă separat. Varianta curată este 10.000 lei în numerar și restul prin cont. Singura excepție este vânzarea cu plata în rate, în baza unui contract de vânzare-cumpărare cu plata în rate." },
           { "q": "Ce se întâmplă dacă rămân cu 80.000 lei în casierie la închidere?",
             "a": "Peste plafonul de 50.000 lei, surplusul trebuie depus în cont în două zile lucrătoare. Dacă la control se constată depășirea, baza de calcul a amenzii este partea care depășește plafonul, nu tot ce ai în casă. Depășirea admisă acoperă salariile, alte drepturi de personal și alte operațiuni cu persoane fizice, trei zile lucrătoare de la data prevăzută pentru plata acestora." },
-          { "q": "Îmi vând mașina personală cu 60.000 lei, cumpărătorul e tot persoană fizică. Pot lua banii cash? Pot lua banii cash?",
+          { "q": "Îmi vând mașina personală cu 60.000 lei, cumpărătorul e tot persoană fizică. Pot lua banii cash?",
             "a": "Plafonul între două persoane fizice este de 50.000 lei pe tranzacție, deci diferența se plătește prin bancă. Împărțirea prețului în două plăți ca să încapă sub plafon este interzisă expres în același text. Transferurile făcute prin bancă sau prin instituții de plată autorizate nu intră în plafon." },
           { "q": "Amenda e 25% din toată suma sau doar din cât am depășit?",
             "a": "Depinde de faptă. La plafoanele obișnuite, procentul se aplică doar părții care depășește plafonul, cu minimum 500 lei. La împrumuturile în numerar cu persoane fizice se aplică pe suma întreagă, pentru că acolo nu există plafon de scăzut, iar operațiunile făcute în baza aceleiași rezoluții se adună într-o singură bază de calcul." }
@@ -861,7 +861,7 @@
             "photo": "l82-1991-3",
             "body": "Inventarierea este momentul în care se compară ce scrie în contabilitate cu ce există efectiv. Se numără, se măsoară, se cântărește; diferențele se explică și se înregistrează. Fără ea, contabilitatea rămâne o afirmație neverificată.\n\nArticolul 7 alin. (1) o cere la începutul activității, cel puțin o dată în cursul exercițiului financiar, în cazul fuziunii, divizării, transformării sau lichidării, precum și în alte situații prevăzute de lege. „Cel puțin o dată” este minimul, nu recomandarea; entitățile cu stocuri în mișcare inventariază mai des, din interes propriu.\n\nObiectul nu este doar marfa din depozit. Textul spune „elementele de natura activelor, datoriilor și capitalurilor proprii”, deci și creanțele, și datoriile, și disponibilitățile bănești. Un sold de client care nu mai poate fi încasat trebuie găsit la inventariere, nu peste cinci ani.\n\nRezultatul se consemnează în Registrul-inventar, unul dintre cele trei registre obligatorii de la art. 20, iar concluziile lui intră în situațiile financiare anuale. Neefectuarea inventarierii este contravenția din art. 41 pct. 2 lit. d), iar sancțiunea ei este printre cele mai mari din lege." },
           { "title": "Cât timp păstrezi",
-            "body": "Obligația nu se termină la depunerea situațiilor financiare. Registrele de contabilitate obligatorii și documentele justificative se păstrează în arhivă, iar termenul actual este de 5 ani.\n\nModul de calcul e neobișnuit și merită citit cu atenție, pentru că termenul nu curge de la data documentului: cei 5 ani se socotesc de la data de 1 iulie a anului următor celui în care s-a încheiat exercițiul financiar în care documentele au fost întocmite. Pentru un exercițiu financiar care se închide la 31 decembrie 2026, termenul începe la 1 iulie 2027 și se împlinește la 1 iulie 2032.\n\nRegula de astăzi vine din O.U.G. 13/2021. Înainte, termenul general era de 10 ani, iar statele de salarii se păstrau 50 de ani. Astăzi textul spune explicit „inclusiv pentru statele de salarii”, deci și acestea intră în cei 5 ani. Multe materiale mai vechi de pe internet încă repetă cifrele dinainte.\n\nMotivul termenului este simplu: arhiva este singura dovadă că înregistrările au avut acoperire. Dacă un control cere documentul justificativ din spatele unei operațiuni și nu îl primește, consideră operațiunea nejustificată." }
+            "body": "Obligația nu se termină la depunerea situațiilor financiare. Registrele de contabilitate obligatorii și documentele justificative se păstrează în arhivă, iar termenul actual este de 5 ani.\n\nModul de calcul e neobișnuit și merită citit cu atenție, pentru că termenul nu curge de la data documentului: cei 5 ani se socotesc de la data de 1 iulie a anului următor celui în care s-a încheiat exercițiul financiar în care documentele au fost întocmite. Pentru un exercițiu financiar care se închide la 31 decembrie 2026, termenul începe la 1 iulie 2027 și se împlinește la 1 iulie 2032.\n\nRegula de astăzi vine din Legea 36/2023. Înainte, termenul general era de 10 ani, iar statele de salarii se păstrau 50 de ani. Astăzi textul spune explicit „inclusiv pentru statele de salarii”, deci și acestea intră în cei 5 ani. Multe materiale mai vechi de pe internet încă repetă cifrele dinainte.\n\nMotivul termenului este simplu: arhiva este singura dovadă că înregistrările au avut acoperire. Dacă un control cere documentul justificativ din spatele unei operațiuni și nu îl primește, consideră operațiunea nejustificată." }
         ],
         "timeline": [
           { "date": "1991-12-24", "title": "Se adoptă Legea contabilității",
@@ -873,7 +873,7 @@
           { "date": "2015-06-05", "title": "Partida simplă pentru venituri în sistem real",
             "note": "Legea 121/2015 dă art. 1 alin. (5) forma actuală: PFA și profesiile liberale țin partidă simplă, sau dublă la opțiunea lor." },
           { "date": "2021-02-26", "title": "O.U.G. 13/2021 rescrie amenzile, dar nu arhivarea",
-            "note": "O.U.G. 13/2021 modifică art. 7, art. 41 și art. 42. Nu atinge însă art. 25: termenul de arhivare a rămas 10 ani, iar statele de salarii 50 de ani, încă un an și jumătate după această ordonanță." },
+            "note": "O.U.G. 13/2021 modifică art. 7, art. 41 și art. 42. Nu atinge însă art. 25: termenul de arhivare a rămas 10 ani, iar statele de salarii 50 de ani, aproape doi ani după această ordonanță." },
         { "date": "2023-01-15", "title": "Arhivarea scade la cinci ani",
           "note": "Legea 36/2023 (M.Of. 36 din 12 ianuarie 2023) rescrie art. 25: termenul de păstrare a registrelor și a documentelor justificative devine 5 ani, socotiți de la 1 iulie a anului următor, iar statele de salarii intră în același termen, în locul celui de 50 de ani. Până atunci se aplicau 10 ani, iar sursele care mai citează cifra aceea citează forma dinainte de 2023." },
           { "date": "2023-11-11", "title": "Dispare plata a jumătate din minim",
@@ -1055,7 +1055,7 @@
         "Cel puțin două fapte în 12 luni: amendă triplă și suspendarea activității 15 zile"
       ],
       "prevention": null,
-      "explica": "Orice comerciant e obligat să emită bon fiscal pentru tot ce vinde. Dacă nu îl emite, sau emite unul cu valoare mai mică decât prețul real, diferența devine \"sumă nejustificată\" - se confiscă, iar amenda se stabilește după cât de mare e acea sumă și ce pondere are din vânzările zilei. Până la 11 noiembrie 2023, cazurile mici primeau avertisment; acum primesc 2.000 lei.",
+      "explica": "Orice comerciant e obligat să emită bon fiscal pentru tot ce vinde. Dacă nu îl emite, sau emite unul cu valoare mai mică decât prețul real, diferența devine „sumă nejustificată” - se confiscă, iar amenda se stabilește după cât de mare e acea sumă și ce pondere are din vânzările zilei. Până la 11 noiembrie 2023, cazurile mici primeau avertisment; acum primesc 2.000 lei.",
       "oficial": "Art. 10. - Constituie contravenții următoarele fapte dacă, potrivit legii penale, nu sunt considerate infracțiuni: [...] c) neemiterea bonului fiscal pentru toate bunurile livrate sau serviciile prestate, emiterea de bonuri cu o valoare inferioară prețului de vânzare a bunului sau tarifului de prestare a serviciului ori nerespectarea prevederilor art. 1 alin. (8), care determină existența unei sume nejustificate. În sensul acestei prevederi, prin sumă nejustificată se înțelege contravaloarea bunurilor livrate sau serviciilor prestate pentru care nu s-au emis bonuri fiscale, diferența până la prețul de vânzare a bunului sau tarifului de prestare a serviciului în cazul emiterii de bonuri cu o valoare inferioară ori contravaloarea bunurilor livrate sau serviciilor prestate fără respectarea prevederilor art. 1 alin. (8);\n\nArt. 11. - (1) Contravențiile prevăzute la art. 10 se sancționează cu amendă aplicată operatorilor economici după cum urmează: [...] e) cele prevăzute la art. 10 lit. c) și d): (i) cu amendă în cuantum de 2.000 lei, în situația în care suma nejustificată rezultată din săvârșirea contravenției este de până la 300 lei inclusiv, dar mai mică de 3% inclusiv din valoarea totală a bunurilor livrate sau a serviciilor prestate, înregistrată de aparatul de marcat electronic fiscal și/sau în registrul special la data și ora efectuării controlului ori la sfârșitul zilei, dacă fapta a fost săvârșită anterior datei controlului, precum și confiscarea sumei nejustificate; [...] (vi) cu amendă în cuantum de 30.000 lei, în situația în care suma nejustificată rezultată din săvârșirea contravenției este mai mare de 1.000 lei și mai mare de 3% din valoarea totală a bunurilor livrate sau a serviciilor prestate [...], precum și confiscarea sumei nejustificate.",
       "steps": [
         "Cere raportul Z și registrul special - amenda se calculează din ele",
@@ -1067,7 +1067,7 @@
       "exposeQuestion": "Emiți bon fiscal la fiecare vânzare?" },
 
     { "id": "bon-neinmanat", "name": "Neînmânarea bonului fiscal clientului",
-      "actId": "oug28-1999", "articleRef": "art. 10 lit. g)",
+      "actId": "oug28-1999", "articleRef": "art. 10 lit. g), art. 12 alin. (9)",
       "cat": "casa-marcat", "sev": "medie",
       "aud": ["citizen", "pfa", "firma", "contabil"], "icon": "receipt",
       "amounts": [ { "from": null, "to": null, "min": 1000, "max": 2000 } ],
@@ -1075,7 +1075,7 @@
       "ancillary": [],
       "prevention": null,
       "explica": "Bonul trebuie nu doar emis, ci și înmânat clientului - iar factura trebuie eliberată dacă o ceri. Excepția, din 26 decembrie 2024: la încasările cu cardul nu mai există obligația de a imprima și de a înmâna bonul (art. 1 alin. (2^1)). Spre deosebire de restul contravențiilor din această lege, amenda se aplică persoanei fizice care ține casa, adică vânzătorului, nu firmei.",
-      "oficial": "Art. 10. - Constituie contravenții următoarele fapte dacă, potrivit legii penale, nu sunt considerate infracțiuni: [...] g) neînmânarea bonului fiscal clientului de către operatorul aparatului de marcat electronic fiscal și/sau neeliberarea facturii la solicitarea clientului;\n\nArt. 11. - [...] Contravenția prevăzută la art. 10 lit. g) se sancționează cu amendă de la 1.000 lei la 2.000 lei, care se aplică persoanelor fizice.",
+      "oficial": "Art. 10. - Constituie contravenții următoarele fapte dacă, potrivit legii penale, nu sunt considerate infracțiuni: [...] g) neînmânarea bonului fiscal clientului de către operatorul aparatului de marcat electronic fiscal și/sau neeliberarea facturii la solicitarea clientului;\n\nArt. 12. - [...] (9) Contravenția prevăzută la art. 10 lit. g) se sancționează cu amendă de la 1.000 lei la 2.000 lei, care se aplică persoanelor fizice.",
       "steps": [
         "Cere bonul la fiecare cumpărătură - e dreptul tău și obligația comerciantului",
         "Dacă ceri factură, comerciantul e obligat să o elibereze",
@@ -1546,7 +1546,7 @@
       ],
       "ancillary": [],
       "prevention": null,
-      "explica": "Ai reținut impozitul sau contribuția din plata către salariat ori colaborator, dar nu ai virat-o la buget. Amenda se stabilește pe praguri, după cât s-a sustras. Atenție la limita cu penalul, care nu este o sumă: reținerea și neplata devin infracțiune dacă trec cel mult 60 de zile de la termenul de scadență (Legea 241/2005, art. 6^1 alin. (1)), indiferent cât de mică e suma. Invers, dacă ai plătit în cele 60 de zile, fapta rămâne contravenție oricât ar fi suma. Pragurile din legea penală există, dar ele reduc pedeapsa, nu o declanșează.",
+      "explica": "Ai reținut impozitul sau contribuția din plata către salariat ori colaborator, dar nu ai virat-o la buget. Amenda se stabilește pe praguri, după cât s-a sustras. Atenție la limita cu penalul, care nu este o sumă: fapta devine infracțiune dacă nu verși suma nici în 60 de zile de la termenul de scadență (Legea 241/2005, art. 6^1 alin. (1)), indiferent cât de mică e. Invers, dacă ai plătit în cele 60 de zile, fapta rămâne contravenție oricât ar fi suma. Pragurile din legea penală există, dar ele reduc pedeapsa, nu o declanșează.",
       "oficial": "Art. 336. - (1) Constituie contravenții următoarele fapte, dacă nu au fost săvârșite în astfel de condiții încât să fie considerate, potrivit legii, infracțiuni: [...] p) reținerea și nevărsarea în totalitate, de către plătitorii obligațiilor fiscale, a sumelor reprezentând impozite și contribuții cu reținere la sursă;\n\n(2) Contravențiile prevăzute la alin. (1) se sancționează astfel: [...] f) cu amendă de la 4.000 lei la 6.000 lei pentru persoanele juridice încadrate în categoria contribuabililor mijlocii și mari și cu amendă de la 1.000 lei la 1.500 lei, pentru celelalte persoane juridice, precum și pentru persoanele fizice, în cazul săvârșirii faptelor prevăzute la alin. (1) lit. o) și p), dacă obligațiile fiscale sustrase la plată sunt de până la 50.000 lei inclusiv; [...] h) cu amendă de la 25.000 lei la 27.000 lei [...] dacă obligațiile fiscale sustrase la plată sunt mai mari de 100.000 lei;",
       "steps": [
         "Virează suma reținută cât mai repede - pragul determină amenda",
@@ -1803,7 +1803,7 @@
       "amountTiers": [ "Cuantum unic, fără distincție după categoria de contribuabil." ],
       "ancillary": [],
       "prevention": null,
-      "explica": "Înainte de prima operațiune intracomunitară trebuie să fii înscris în Registrul operatorilor intracomunitari. Fără înscriere, codul de TVA nu e valid pentru partenerul din alt stat membru, iar operațiunea îți poate fi refuzată scutirea.",
+      "explica": "Înainte de prima operațiune intracomunitară trebuie să fii înscris în Registrul operatorilor intracomunitari. Fără înscriere, codul de TVA nu e valid pentru partenerul din alt stat membru, iar pentru operațiune ți se poate refuza scutirea.",
       "oficial": "Art. 336. - (1) Constituie contravenții următoarele fapte, dacă nu au fost săvârșite în astfel de condiții încât să fie considerate, potrivit legii, infracțiuni: [...] ș) efectuarea de operațiuni intracomunitare de către persoanele care au obligația înscrierii în Registrul operatorilor intracomunitari fără a fi înscrise, conform legii, în acest registru;\n\n(2) Contravențiile prevăzute la alin. (1) se sancționează astfel: [...] j) cu amendă de la 1.000 lei la 5.000 lei în cazul săvârșirii faptei prevăzute la alin. (1) lit. ș);",
       "steps": [
         "Înscrie-te în ROI înainte de prima livrare sau achiziție intracomunitară",
@@ -2009,7 +2009,7 @@
       "oficial": "Art. 41. - Constituie contravenție următoarele fapte: [...] 7. nerespectarea obligației privind auditarea, conform legii, a situațiilor financiare anuale, a situațiilor financiare anuale consolidate, precum și a situațiilor financiare interimare;\n\nArt. 42. - (1) Contravențiile prevăzute la art. 41 se sancționează cu amendă după cum urmează: [...] n) cea prevăzută la pct. 7, cu amendă de la 30.000 lei la 40.000 lei;",
       "steps": [
         "Verifică dacă ai depășit criteriile de mărime la sfârșitul exercițiului: obligația se naște din cifre, nu din vreo adresă primită",
-        "Auditorul trebuie să fie financiar, autorizat - un raport semnat de altcineva nu îndeplinește obligația",
+        "Auditul se face de un auditor financiar autorizat - un raport semnat de altcineva nu îndeplinește obligația",
         "Dacă obligația a apărut abia acum, verifică de la ce exercițiu se aplică: criteriile se citesc pe două exerciții consecutive"
       ],
       "exposeQuestion": null },
@@ -2242,7 +2242,7 @@
         "Dividendele intră în plafon: plata lor în numerar peste 10.000 lei pe zi către un asociat e aceeași faptă",
         "Dacă operațiunea a fost împărțită în tranșe, fragmentarea se sancționează ea însăși (art. 4 alin. (2))"
       ],
-      "exposeQuestion": "Plătești sau încasezi peste 10.000 lei pe zi în numerar cu o persoană fizică?" },
+      "exposeQuestion": "Rămâi sub plafonul de 10.000 lei pe zi la numerar cu o persoană fizică?" },
 
     { "id": "numerar-restituiri", "name": "Restituiri în numerar peste plafon la facturi stornate",
       "actId": "l70-2015", "articleRef": "art. 9",
@@ -2283,7 +2283,7 @@
         "Verifică în PV care dintre fapte s-a reținut: art. 6 și art. 11 se apără diferit",
         "Interdicția de la art. 11 alin. (1) nu ți se adresează ție, ci persoanelor de la art. 1 alin. (2): Trezoreria, instituțiile de credit, cele emitente de monedă electronică, instituțiile de plată, I.F.N.-urile, entitățile de schimb valutar și operatorii de jocuri de noroc. Ție ți se pot reține doar art. 6 și art. 11 alin. (2)-(4)",
         "Transferurile din contul firmei către persoane fizice sunt permise cu documente justificative",
-        "Verifică dacă agentul constatator a individualizat motivat amenda motivat între 15.000 și 20.000 lei"
+        "Verifică dacă agentul constatator a individualizat motivat amenda între 15.000 și 20.000 lei"
       ],
       "exposeQuestion": null },
 
@@ -2332,7 +2332,7 @@
       "amountTiers": [],
       "ancillary": [],
       "prevention": null,
-      "explica": "E o faptă diferită de a nu avea deloc POS: aici ai mijlocul de plată, dar refuzi să îl folosești - \"doar cash\", \"POS-ul e stricat\", \"sub 50 de lei nu dau la card\". Legea nu prevede o sumă minimă sub care poți refuza cardul. Amenda e mai mică decât cea pentru neacceptare, dar se poate da la fiecare control.",
+      "explica": "E o faptă diferită de a nu avea deloc POS: aici ai mijlocul de plată, dar refuzi să îl folosești - „doar cash”, „POS-ul e stricat”, „sub 50 de lei nu dau la card”. Legea nu prevede o sumă minimă sub care poți refuza cardul. Amenda e mai mică decât cea pentru neacceptare, dar se poate da la fiecare control.",
       "oficial": "Art. 3. - (1) Constituie contravenție și se sancționează următoarele fapte: [...] e) refuzul entităților prevăzute la art. 1 alin. (1^2) de a accepta mijloace moderne de plată; [...]\n\nArt. 3. - (2) Contravențiile prevăzute la alin. (1) se sancționează după cum urmează: a) contravenția prevăzută la lit. e) se sancționează cu amendă de la 5.000 lei la 7.500 lei; [...]",
       "steps": [
         "Refuzul se constată la fața locului: cere să fie menționat în procesul-verbal ce ai spus exact și la ce oră",
@@ -2340,7 +2340,7 @@
         "Nu există un prag de sumă sub care poți refuza cardul; condiția de plată minimă afișată la casă nu e o apărare",
         "Ai 15 zile de la comunicare să faci plângere, la judecătoria locului faptei sau la cea de la sediul tău"
       ],
-      "exposeQuestion": "Ai refuzat vreodată o plată cu cardul pentru că suma era mică?" },
+      "exposeQuestion": "Accepți plata cu cardul și pentru sumele mici?" },
 
     { "id": "pos-terminal", "name": "Nerespectarea obligațiilor privind terminalul de plată",
       "actId": "oug193-2002", "articleRef": "art. 3 alin. (1) lit. b)",
@@ -2350,11 +2350,11 @@
       "amountTiers": [],
       "ancillary": [],
       "prevention": null,
-      "explica": "Legea nu îți cere doar să accepți plata modernă, ci și să faci demersurile ca să o poți accepta: să ceri terminalul și să pregătești infrastructura. Îți poți alege singur instituția acceptantă. Odată ce ai cerut, instituția are 30 de zile să instaleze terminalul terminalul - din acel moment întârzierea e a ei, nu a ta, iar dovada cererii te apără.",
+      "explica": "Legea nu îți cere doar să accepți plata modernă, ci și să faci demersurile ca să o poți accepta: să ceri terminalul și să pregătești infrastructura. Îți poți alege singur instituția acceptantă. Odată ce ai cerut, instituția are 30 de zile să instaleze terminalul - din acel moment întârzierea e a ei, nu a ta, iar dovada cererii te apără.",
       "oficial": "Art. 2. - [...] (2) Operatorii economici, instituțiile publice și persoanele juridice prevăzute la art. 1 vor întreprinde măsurile necesare pentru a instala terminale de plată și pentru a permite asigurarea infrastructurii necesare acceptării operațiunilor de plată efectuate prin intermediul mijloacelor moderne de plată, având posibilitatea de a-și alege instituția acceptantă.\n\nArt. 3. - (1) Constituie contravenție și se sancționează următoarele fapte: [...] b) nerespectarea prevederilor art. 2; [...]\n\nArt. 3. - (2) Contravențiile prevăzute la alin. (1) se sancționează după cum urmează: [...] b) contravențiile prevăzute la lit. a), b) și g) se sancționează cu amendă de la 5.000 lei la 15.000 lei; [...]",
       "steps": [
         "Cererea către instituția acceptantă se face în scris și se păstrează - e principala ta apărare",
-        "De la data cererii, instituția are maximum 30 de zile să instaleze terminalul terminalul terminalul sau să pună la dispoziție infrastructura",
+        "De la data cererii, instituția are maximum 30 de zile să instaleze terminalul sau să pună la dispoziție infrastructura",
         "Refuzul sau întârzierea instituției acceptante e contravenția ei, sancționată cu 20.000 - 50.000 lei",
         "Verifică în procesul-verbal dacă fapta reținută e lit. b) sau lit. d) - sunt fapte diferite, cu amenzi diferite"
       ],
@@ -2404,7 +2404,7 @@
       "amountTiers": [],
       "ancillary": [],
       "prevention": null,
-      "explica": "Dacă dai clienților avans în numerar la POS - \"cashback\", banii primiți odată cu plata cumpărăturii - trebuie să afișezi la vedere că oferi serviciul și cât costă. Avansul nu poate depăși 500 de lei, se trece separat pe bonul fiscal, iar comisionul pe care îl poți percepe e plafonat la 1% din sumă. Dacă nu oferi deloc serviciul, contravenția nu ți se aplică.",
+      "explica": "Dacă dai clienților avans în numerar la POS - „cashback”, banii primiți odată cu plata cumpărăturii - trebuie să afișezi la vedere că oferi serviciul și cât costă. Avansul nu poate depăși 500 de lei, se trece separat pe bonul fiscal, iar comisionul pe care îl poți percepe e plafonat la 1% din sumă. Dacă nu oferi deloc serviciul, contravenția nu ți se aplică.",
       "oficial": "Art. 1. - [...] (5) Entitățile prevăzute la alin. (1) și (1^2) pot oferi serviciul de avans în numerar la terminalele de plată în baza contractelor încheiate cu instituțiile acceptante și pot acorda avansuri în numerar potrivit prezentei ordonanțe de urgență. Acestea afișează la loc vizibil semnul privind acordarea acestui serviciu, precum și informații privind costurile serviciului.\n(6) Avansul prevăzut la alin. (5) se evidențiază distinct pe bonul fiscal și nu poate depăși suma de 500 de lei. [...] Comercianții pot percepe, de la titularul cardului, un comision care nu poate depăși 1% din valoarea avansului acordat.\n\nArt. 3. - (1) Constituie contravenție și se sancționează următoarele fapte: [...] g) lipsa afișării semnului prevăzut la art. 1 alin. (5) a informațiilor privind serviciul de acordare a avansurilor în numerar și a costurilor serviciului; [...]\n\nArt. 3. - (2) Contravențiile prevăzute la alin. (1) se sancționează după cum urmează: [...] b) contravențiile prevăzute la lit. a), b) și g) se sancționează cu amendă de la 5.000 lei la 15.000 lei; [...]",
       "steps": [
         "Afișează semnul la loc vizibil, la casă, împreună cu costul serviciului",
@@ -2428,7 +2428,7 @@
       ],
       "ancillary": [],
       "prevention": null,
-      "explica": "Termenul de depunere e 31 mai pentru societățile comerciale și 30 aprilie pentru celelalte persoane juridice, iar dacă termenul cade într-o zi nelucrătoare se mută pe prima zi lucrătoare. Amenda crește în trepte, după câte zile lucrătoare ai întârziat - nu zile calendaristice. Atât timp cât depui, chiar și târziu, rămâi în această contravenție; dacă nu depui deloc, fapta rămâne aceasta [...] cealaltă e alta, mai gravă, mai gravă.",
+      "explica": "Termenul de depunere e 31 mai pentru societățile comerciale și 30 aprilie pentru celelalte persoane juridice, iar dacă termenul cade într-o zi nelucrătoare se mută pe prima zi lucrătoare. Amenda crește în trepte, după câte zile lucrătoare ai întârziat - nu zile calendaristice. Atât timp cât depui, chiar și târziu, rămâi în această contravenție; dacă nu depui deloc, fapta este alta, mai gravă.",
       "oficial": "Art. 41. - Constituie contravenție următoarele fapte: [...] 2. nerespectarea reglementărilor emise de Ministerul Finanțelor Publice, respectiv de instituțiile cu atribuții de reglementare în domeniul contabilității prevăzute la art. 4 alin. (3), cu privire la: [...] e) întocmirea, semnarea și depunerea în termenul legal la Agenția Națională de Administrare Fiscală a situațiilor financiare anuale și, după caz, a situațiilor financiare anuale consolidate, a situațiilor financiare interimare, precum și a raportărilor contabile; [...]\n\nArt. 42. - (1) Contravențiile prevăzute la art. 41 se sancționează cu amendă după cum urmează: [...] e) cele prevăzute la pct. 2 lit. e), astfel: cele referitoare la întocmire și semnare, cu amendă de la 2.000 lei la 3.000 lei; cea referitoare la depunerea în termenul legal, cu amendă de la 300 lei la 1.000 lei, dacă perioada de întârziere este cuprinsă între 1 și 15 zile lucrătoare, cu amendă de la 1.000 lei la 3.000 lei, dacă perioada de întârziere este cuprinsă între 16 și 30 de zile lucrătoare, și cu amendă de la 1.500 lei la 4.500 lei, dacă perioada de întârziere depășește 30 de zile lucrătoare; [...]",
       "steps": [
         "Depune cât mai repede: treapta de amendă se oprește la ziua depunerii, nu la ziua controlului",
@@ -2454,7 +2454,7 @@
         "Declarația de inactivitate este o obligație diferită, cu amendă mult mai mică, dar ea se aplică numai firmelor care nu au desfășurat activitate de la constituire (art. 36 alin. (2)) - o firmă care a fost activă cândva depune situații financiare, nu declarație de inactivitate",
         "Amenzile din Legea contabilității nu se pot plăti la jumătate în 15 zile"
       ],
-      "exposeQuestion": "Ai un an pentru care nu ai depus deloc situațiile financiare?" },
+      "exposeQuestion": "Ai depus situațiile financiare pentru fiecare an încheiat?" },
 
     { "id": "contab-neinregistrare", "name": "Operațiuni sau bunuri neînregistrate în contabilitate",
       "actId": "l82-1991", "articleRef": "art. 41 pct. 1",
@@ -2464,7 +2464,7 @@
       "amountTiers": [],
       "ancillary": [],
       "prevention": null,
-      "explica": "E contravenția \"marfă fără acte\": bunuri pe care le deții sau operațiuni pe care le-ai făcut și care nu apar nicăieri în contabilitate. Nu contează cu ce titlu deții bunul. Intervalul e larg tocmai pentru că agentul cântărește valoarea și contextul, iar art. 6 din lege cere ca orice operațiune să fie consemnată în momentul efectuării ei, nu mai târziu.",
+      "explica": "E contravenția „marfă fără acte”: bunuri pe care le deții sau operațiuni pe care le-ai făcut și care nu apar nicăieri în contabilitate. Nu contează cu ce titlu deții bunul. Intervalul e larg tocmai pentru că agentul cântărește valoarea și contextul, iar art. 6 din lege cere ca orice operațiune să fie consemnată în momentul efectuării ei, nu mai târziu.",
       "oficial": "Art. 41. - Constituie contravenție următoarele fapte: 1. deținerea, cu orice titlu, de elemente de natura activelor și datoriilor, precum și efectuarea de operațiuni economico-financiare, fără să fie înregistrate în contabilitate; [...]\n\nArt. 42. - (1) Contravențiile prevăzute la art. 41 se sancționează cu amendă după cum urmează: a) cele prevăzute la pct. 1, cu amendă de la 2.000 lei la 20.000 lei; [...]",
       "steps": [
         "Cere să se consemneze în procesul-verbal exact ce bunuri sau operațiuni au fost reținute și la ce valoare",
@@ -2518,7 +2518,7 @@
       "amountTiers": [],
       "ancillary": [],
       "prevention": null,
-      "explica": "O firmă care nu a desfășurat activitate de la constituire nu depune situații financiare, ci o declarație de inactivitate, în 60 de zile de la încheierea exercițiului financiar - adică 1 martie în anii obișnuiți și 29 februarie în anii bisecți. Plafonul ei e 1.500 lei, iar depunerea cu întârziere pornește chiar mai jos, de la 300 lei. E și printre cele mai ușor de evitat. Atenție: declarația se referă la firmele fără activitate de la înființare, nu la cele care au avut și apoi au oprit.",
+      "explica": "O firmă care nu a desfășurat activitate de la constituire nu depune situații financiare, ci o declarație de inactivitate, în 60 de zile de la încheierea exercițiului financiar - adică 1 martie în anii obișnuiți și 29 februarie în anii bisecți. Plafonul ei e 1.500 lei. Atenție: declarația se referă la firmele fără activitate de la înființare, nu la cele care au avut și apoi au oprit.",
       "oficial": "Art. 36. - [...] (2) Persoanele juridice care de la constituire nu au desfășurat activitate, precum și subunitățile fără personalitate juridică din România care aparțin unor persoane juridice cu sediul în străinătate, care de la constituire nu au desfășurat activitate, depun o declarație în acest sens, în termen de 60 de zile de la încheierea exercițiului financiar, la Agenția Națională de Administrare Fiscală.\n\nArt. 41. - Constituie contravenție următoarele fapte: [...] 2. nerespectarea reglementărilor emise de Ministerul Finanțelor Publice [...] cu privire la: [...] g) depunerea declarației din care să rezulte că persoanele prevăzute la art. 1 alin. (1)-(3) nu au desfășurat activitate, respectiv a înștiințării prevăzute la art. 27 alin. (6) lit. b); [...]\n\nArt. 42. - (1) Contravențiile prevăzute la art. 41 se sancționează cu amendă după cum urmează: [...] h) cele prevăzute la pct. 2 lit. g), cu amendă de la 1.000 lei la 1.500 lei; [...]",
       "steps": [
         "Termenul e de 60 de zile de la 31 decembrie, adică în jurul datei de 1 martie",
@@ -2526,7 +2526,7 @@
         "Depune declarația și apoi contestă: fapta se stinge, iar plata amenzii nu înlocuiește obligația",
         "Amenzile din Legea contabilității nu se pot plăti la jumătate în 15 zile"
       ],
-      "exposeQuestion": "Ai o firmă fără activitate pentru care nu ai depus declarația?" }
+      "exposeQuestion": "Ai depus la timp declarația de inactivitate pentru firma fără activitate?" }
   ],
 
   "rules": {
@@ -2615,6 +2615,8 @@
       "formal": "nu am săvârșit fapta reținută în sarcina mea, situația de fapt fiind în mod eronat constatată de agentul constatator" },
     { "id": "disproportionat", "label": "Sancțiune disproporționată",
       "formal": "sancțiunea aplicată este disproporționată față de gradul de pericol social al faptei, cu încălcarea art. 5 alin. (5) și art. 21 alin. (3) din Ordonanța Guvernului nr. 2/2001, motiv pentru care solicit înlocuirea amenzii cu avertisment, în măsura în care legea specială nu exclude expres această sancțiune pentru fapta reținută" },
+    { "id": "necesitate-fortuit", "label": "Stare de necesitate sau caz fortuit",
+      "formal": "fapta a fost săvârșită în stare de necesitate ori ca urmare a unui caz fortuit, împrejurări care înlătură caracterul contravențional al faptei potrivit art. 11 alin. (1) din Ordonanța Guvernului nr. 2/2001 și pe care le dovedesc cu înscrisurile anexate, aceste cauze fiind constatate numai de instanța de judecată, potrivit art. 11 alin. (5) din același act normativ" },
     { "id": "prescris", "label": "A intervenit prescripția aplicării sancțiunii",
       "formal": "a intervenit prescripția aplicării sancțiunii contravenționale, potrivit art. 13 din Ordonanța Guvernului nr. 2/2001, respectiv potrivit termenului special prevăzut de legea aplicabilă faptei" },
     { "id": "necomunicat", "label": "Procesul-verbal nu mi-a fost comunicat în termen",
@@ -2631,29 +2633,29 @@
       "note": "Atenție la ce anume lipsește. Dacă fapta nu este descrisă deloc, nulitatea este absolută: instanța o constată și din oficiu, fără să dovedești vreo vătămare (O.G. 2/2001, art. 17). Dacă fapta este descrisă, dar insuficient - nu se înțelege ce ai făcut, când sau cum - atunci temeiul este art. 16, nulitatea este relativă și trebuie să arăți vătămarea: că nu ai putut să îți faci apărarea (Înalta Curte de Casație și Justiție, Decizia nr. 13/2018, obligatorie)." },
     { "id": "data", "label": "Data săvârșirii faptei", "nullity": "absoluta",
       "note": "Lipsa datei comiterii faptei atrage nulitatea, constatată și din oficiu (O.G. 2/2001, art. 17)." },
+    { "id": "loc", "label": "Locul săvârșirii faptei", "nullity": "relativa",
+      "note": "Locul faptei este o mențiune obligatorie potrivit art. 16 alin. (1), dar nu figurează în lista de nulitate din art. 17 - se invocă dovedind vătămarea." },
+    { "id": "identitate", "label": "Numele, prenumele și CNP-ul tău, scrise corect (sau denumirea și sediul firmei)", "nullity": "absoluta",
+      "note": "Aceste date sunt în lista de nulitate din art. 17: lipsa numelui și prenumelui, a codului numeric personal ori, la persoane juridice, a denumirii și sediului atrage nulitatea, constatată și din oficiu. Datele scrise atât de greșit încât nu permit identificarea ta pot fi asimilate lipsei; o simplă greșeală de scriere se invocă dovedind vătămarea. Domiciliul este cerut doar de art. 16, deci lipsa sau greșeala lui se invocă tot dovedind vătămarea - dar contează la comunicare: un proces-verbal trimis la altă adresă nu este legal comunicat." },
     { "id": "agent", "label": "Numele și prenumele agentului constatator", "nullity": "absoluta",
       "note": "Lipsa numelui și prenumelui agentului atrage nulitatea, constatată și din oficiu (O.G. 2/2001, art. 17). Calitatea și instituția sunt cerute de art. 16, dar lipsa lor se invocă doar ca nulitate relativă." },
     { "id": "semnatura", "label": "Semnătura agentului constatator", "nullity": "absoluta",
       "note": "Lipsa semnăturii agentului constatator atrage nulitatea, constatată și din oficiu (O.G. 2/2001, art. 17)." },
-    { "id": "identitate", "label": "Numele, prenumele și CNP-ul tău (sau denumirea și sediul firmei)", "nullity": "absoluta",
-      "note": "Aceste date sunt în lista de nulitate din art. 17: lipsa numelui și prenumelui, a codului numeric personal ori, la persoane juridice, a denumirii și sediului atrage nulitatea, constatată și din oficiu." },
     { "id": "data-incheierii", "label": "Data și locul încheierii procesului-verbal",
       "nullity": "relativa", "note": "Este prima cerință din art. 16 alin. (1) și nu se confundă cu data faptei. Lipsa ei nu atrage nulitatea absolută, dar contează: din 27 martie 2026, art. 25 alin. (1^2) leagă un termen de două luni tocmai de data încheierii procesului-verbal." },
-    { "id": "loc", "label": "Locul săvârșirii faptei", "nullity": "relativa",
-      "note": "Locul faptei este o mențiune obligatorie potrivit art. 16 alin. (1), dar nu figurează în lista de nulitate din art. 17 - se invocă dovedind vătămarea." },
     { "id": "temei", "label": "Temeiul legal al sancțiunii", "nullity": "relativa",
-      "note": "Indicarea actului normativ este cerută de art. 16 alin. (1); Indicarea actului normativ este cerută de art. 16 alin. (1); lipsa ei se invocă dovedind vătămarea.." },
+      "note": "Indicarea actului normativ este cerută de art. 16 alin. (1); lipsa ei se invocă dovedind vătămarea." },
     { "id": "obiectiuni", "label": "Mențiunea privind obiecțiunile tale", "nullity": "relativa",
-      "note": "Agentul e obligat să îți aducă la cunoștință dreptul de a face obiecțiuni, consemnate la rubrica \"Alte mențiuni\", sub sancțiunea nulității (art. 16 alin. (7)). Este o nulitate relativă: se invocă dovedind vătămarea (Înalta Curte de Casație și Justiție, Secțiile Unite, Decizia nr. XXII/2007)." },
+      "note": "Agentul e obligat să îți aducă la cunoștință dreptul de a face obiecțiuni, consemnate la rubrica „Alte mențiuni”, sub sancțiunea nulității (art. 16 alin. (7)). Este o nulitate relativă: se invocă dovedind vătămarea (Înalta Curte de Casație și Justiție, Secțiile Unite, Decizia nr. XXII/2007)." },
     { "id": "cale", "label": "Termenul căii de atac și instanța", "nullity": "relativa",
-      "note": "Mențiunea despre calea de atac este cerută de art. 16 alin. (1); Indicarea actului normativ este cerută de art. 16 alin. (1); lipsa ei se invocă dovedind vătămarea.." }
+      "note": "Mențiunea despre calea de atac este cerută de art. 16 alin. (1); lipsa ei se invocă dovedind vătămarea." }
   ],
 
   "payChannels": [
     { "id": "ghiseul", "title": "Online, cu cardul", "subtitle": "Ghișeul.ro sau aplicația băncii",
       "badge": "RECOMANDAT", "icon": "globe",
       "body": "Amenzile cuvenite bugetului de stat se pot achita online, în conturile dedicate. Atenție cui se cuvine amenda: cele aplicate persoanelor fizice, inclusiv PFA-urilor, se fac venit la bugetul local al domiciliului, nu la bugetul de stat (O.G. 2/2001, art. 8 alin. (4)).",
-      "note": "Păstrează extrasul de cont sau dovada de plată emisă de sistem: Păstrează extrasul de cont sau dovada de plată emisă de sistem; dovada cuprinde data și ora plății și ține loc de chitanță.." },
+      "note": "Păstrează extrasul de cont sau dovada de plată emisă de sistem; dovada cuprinde data și ora plății și ține loc de chitanță." },
     { "id": "banca", "title": "Transfer bancar", "subtitle": "Către contul indicat de organul constatator",
       "badge": null, "icon": "bank",
       "body": "La detalii scrie seria și numărul procesului-verbal, ca plata să fie identificată corect.",
@@ -2661,13 +2663,13 @@
     { "id": "trezorerie", "title": "La ghișeu", "subtitle": "Trezoreria Statului",
       "badge": null, "icon": "storefront",
       "body": "Mergi cu procesul-verbal și actul de identitate. Primești chitanță pe loc.",
-      "note": "Amenzile aplicate persoanelor fizice se cuvin bugetului local al domiciliului și se pot achita la casieria oricărei autorități locale, la casieria oricărei autorități locale, indiferent de domiciliul tău sau de locul fapteia în care aceasta funcționează, de domiciliul tău sau de locul faptei (art. 8 alin. (3)-(5) și art. 28 alin. (2)). Dacă plătești la ghișeu, trimite o copie a chitanței agentului constatator, prin poștă sau pe e-mail: obligația cade numai dacă ai plătit printr-un sistem electronic (art. 28 alin. (2) și (3)). Fără ea rămâi neplatitor în evidențe." }
+      "note": "Amenzile aplicate persoanelor fizice se cuvin bugetului local al domiciliului și se pot achita la casieria oricărei autorități locale, indiferent de domiciliul tău sau de locul faptei (art. 8 alin. (3)-(5) și art. 28 alin. (2)). Dacă plătești la ghișeu, trimite o copie a chitanței agentului constatator, prin poștă sau pe e-mail: obligația cade numai dacă ai plătit printr-un sistem electronic (art. 28 alin. (2) și (3)). Fără ea rămâi neplătitor în evidențe." }
   ],
 
   "texts": {
     "independence": "Aplicație independentă. Nu este afiliată ANAF sau altei instituții publice.",
     "disclaimer": "Amendo este un ghid informativ. Nu oferă consultanță juridică; pentru situații concrete, consultă un avocat.",
-    "reductionBanner": "La majoritatea amenzilor fiscale nu se poate plăti jumătate din minim în 15 zile: beneficiul a fost eliminat prin Legea 296/2023, art. LVIII. Acolo legea enumeră limitativ actele vizate, așa că unele amenzi îl păstrează - la ele apare rândul „Plată redusă (50%)” în termenele amenzii tale. Termenul de 15 zile rămâne valabil pentru plângerea la judecătorie.",
+    "reductionBanner": "La majoritatea amenzilor fiscale nu se poate plăti jumătate din minim în 15 zile: beneficiul a fost eliminat prin Legea 296/2023, art. LVIII. Acolo legea enumeră limitativ actele vizate, așa că unele amenzi îl păstrează - la ele apare rândul „Plată redusă” în termenele amenzii tale. Termenul de 15 zile rămâne valabil pentru plângerea la judecătorie.",
     "deadlineFootnote": "Termene calculate din datele PV-ului tău"
   }
 }
