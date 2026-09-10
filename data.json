@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "version": 3,
-  "updatedAt": "2026-08-23",
+  "version": 4,
+  "updatedAt": "2026-09-10",
 
   "acts": [
     { "id": "og2-2001", "cite": "O.G. 2/2001", "name": "Regimul juridic al contravențiilor", "provisions": [],
@@ -100,7 +100,9 @@
       ],
       "sources": [
         { "label": "O.G. nr. 2/2001, forma consolidată la 27.03.2026 (Portal Legislativ)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/29779" },
-        { "label": "O.G. nr. 2/2001, forma publicată în Monitorul Oficial nr. 410 din 25 iulie 2001", "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/29779" }
+        { "label": "O.G. nr. 2/2001, forma publicată în Monitorul Oficial nr. 410 din 25 iulie 2001", "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/29779" },
+        { "label": "O.G. 2/2001, text integral în forma actualizată la 9 decembrie 2004, găzduit de Inspecția Muncii", "url": "https://www.inspectiamuncii.ro/documents/66402/266223/2001.o.2.pdf/faefa48d-6077-4c79-9c39-86447ba58cf5" },
+        { "label": "Legea 203/2018, care a modificat art. 16 și 17 din O.G. 2/2001, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/L_203_2018.pdf" }
       ] },
 
     { "id": "oug28-1999", "cite": "O.U.G. 28/1999", "name": "Obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale",
@@ -215,7 +217,8 @@
         { "label": "Legea 296/2023, forma consolidată la 25.02.2026, art. LVIII, LXIX și LXX", "url": "https://legislatie.just.ro/Public/DetaliiDocument/307019" },
         { "label": "O.U.G. 68/2025, text integral (M.Of. 1132 din 8 decembrie 2025), găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/OUG_68_2025.pdf" },
         { "label": "O.U.G. 125/2024, text integral (M.Of. 1073 din 25 octombrie 2024), găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/OUG_125_2024.pdf" },
-        { "label": "H.G. 33/2018, forma consolidată la 05.11.2023, anexa nr. 1 cu punctul 42 abrogat", "url": "https://legislatie.just.ro/Public/DetaliiDocument/197475" }
+        { "label": "H.G. 33/2018, forma consolidată la 05.11.2023, anexa nr. 1 cu punctul 42 abrogat", "url": "https://legislatie.just.ro/Public/DetaliiDocument/197475" },
+        { "label": "Modificările aduse O.U.G. 28/1999 prin Legea 296/2023 (art. 10 și 11, înainte și după), tabel comparativ publicat de ANAF", "url": "https://static.anaf.ro/static/10/Brasov/Brasov/Tab_comp_modifOUG28_Leg296_2023.pdf" }
       ] },
 
     { "id": "cpf-2015", "cite": "Legea 207/2015", "name": "Codul de procedură fiscală", "provisions": [],
@@ -316,7 +319,8 @@
       ],
       "sources": [
         { "label": "Legea nr. 207/2015 privind Codul de procedură fiscală, forma consolidată (Portal Legislativ)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/170007" },
-        { "label": "O.G. nr. 2/2001, forma consolidată, pentru art. 13 alin. (4), temeiul derogării de la art. 339 alin. (1)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/29779" }
+        { "label": "O.G. nr. 2/2001, forma consolidată, pentru art. 13 alin. (4), temeiul derogării de la art. 339 alin. (1)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/29779" },
+        { "label": "Legea 207/2015, Codul de procedură fiscală, textul actualizat publicat de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/cod_procedura/Cod_Procedura_Fiscala_2023.htm" }
       ] },
     { "id": "oug120-2021", "cite": "O.U.G. 120/2021", "name": "Sistemul național privind factura electronică RO e-Factura", "provisions": [],
       "about": {
@@ -421,7 +425,8 @@
         { "label": "Legea 296/2023, forma consolidată la 25.02.2026, art. LIX (regimul tranzitoriu B2B 2024)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/307019" },
         { "label": "Legea 227/2015 (Codul fiscal), forma consolidată, art. 319", "url": "https://legislatie.just.ro/Public/DetaliiDocument/171282" },
         { "label": "Ministerul Finanțelor, RO e-Factura, informații tehnice", "url": "https://mfinante.gov.ro/ro/web/efactura/informatii-tehnice" },
-        { "label": "O.U.G. 89/2025, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/OUG_89_2025.pdf" }
+        { "label": "O.U.G. 89/2025, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/OUG_89_2025.pdf" },
+        { "label": "O.U.G. 120/2021, forma inițială (octombrie 2021), text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/OUG_120_2021.pdf" }
       ] },
     { "id": "oug41-2022", "cite": "O.U.G. 41/2022", "name": "Sistemul național RO e-Transport",
       "provisions": [
@@ -530,7 +535,8 @@
         { "label": "Ordinul ANAF și AVR nr. 1.337/1.268/2024, procedura RO e-Transport (M.Of. 597 din 27 iunie 2024)", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/OPANAF_1337_2024.pdf" },
         { "label": "Legea 296/2023, forma consolidată la 25.02.2026, art. LVII (RO e-Sigiliu)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/307019" },
         { "label": "O.U.G. 29/2025, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/OUG_29_2025.pdf" },
-        { "label": "Ministerul Finanțelor, RO e-Transport, informații tehnice", "url": "https://mfinante.gov.ro/ro/web/etransport/informatii-tehnice" }
+        { "label": "Ministerul Finanțelor, RO e-Transport, informații tehnice", "url": "https://mfinante.gov.ro/ro/web/etransport/informatii-tehnice" },
+        { "label": "O.U.G. 41/2022, forma inițială (aprilie 2022), text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/OUG_41_2022.pdf" }
       ] },
     { "id": "l70-2015", "cite": "Legea 70/2015", "name": "Disciplina financiară privind operațiunile de încasări și plăți în numerar", "provisions": [],
       "about": {
@@ -636,7 +642,8 @@
         { "label": "Legea 70/2015, indexul formelor actului", "url": "https://legislatie.just.ro/Public/DetaliiDocument/167088" },
         { "label": "Legea 296/2023, text integral găzduit de ANAF (art. LVIII)", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/L_296_2023.pdf" },
         { "label": "O.U.G. 115/2023, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/OUG_115_2023.pdf" },
-        { "label": "Legea 239/2025, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/L_239_2025.pdf" }
+        { "label": "Legea 239/2025, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/L_239_2025.pdf" },
+        { "label": "Legea 70/2015, forma în vigoare în 2019 (cu Legea 344/2018), text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/L_70_2015.pdf" }
       ] },
     { "id": "l252-2003", "cite": "Legea 252/2003", "name": "Registrul unic de control", "provisions": [],
       "about": {
@@ -726,7 +733,8 @@
         { "label": "Legea 270/2017, Legea prevenirii (M.Of. 1037 din 28 decembrie 2017), art. 2, 4, 6, 7, 8 și 9", "url": "https://legislatie.just.ro/Public/DetaliiDocument/196268" },
         { "label": "H.G. 33/2018, forma consolidată la 05.11.2023, anexa nr. 1 cu punctul 45 în vigoare", "url": "https://legislatie.just.ro/Public/DetaliiDocument/197475" },
         { "label": "H.G. 33/2018, forma consolidată la 08.01.2021, pentru textul punctelor abrogate", "url": "https://legislatie.just.ro/Public/DetaliiDocument/232450" },
-        { "label": "Legea 348/2004 privind denominarea monedei naționale, art. 1 și art. 5 alin. (5)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/53757" }
+        { "label": "Legea 348/2004 privind denominarea monedei naționale, art. 1 și art. 5 alin. (5)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/53757" },
+        { "label": "Legea 252/2003, fișa actului pe portalul guvernamental Legea prevenirii (prevenire.gov.ro)", "url": "https://prevenire.gov.ro/contraventii/legea-nr-252-2003/" }
       ] },
 
     { "id": "oug193-2002", "cite": "O.U.G. 193/2002", "name": "Introducerea sistemelor moderne de plată",
@@ -831,7 +839,8 @@
         { "label": "O.U.G. 193/2002, forma consolidată și istoricul formelor (Portal Legislativ)", "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/40872" },
         { "label": "Legea 207/2015, Codul de procedură fiscală, forma consolidată la 08.08.2026, art. 1 pct. 41", "url": "https://legislatie.just.ro/Public/DetaliiDocument/312603" },
         { "label": "Legea 239/2025, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/L_239_2025.pdf" },
-        { "label": "Legea 296/2023, art. LVIII, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/L_296_2023.pdf" }
+        { "label": "Legea 296/2023, art. LVIII, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/L_296_2023.pdf" },
+        { "label": "Modificările aduse O.U.G. 193/2002 prin Legea 239/2025 (art. 1 - 5, înainte și după), tabel comparativ publicat de ANAF", "url": "https://static.anaf.ro/static/10/Brasov/Brasov/modificari_OUG193_2002_prin_L239_2025.pdf" }
       ] },
 
     { "id": "l82-1991", "cite": "Legea 82/1991", "name": "Legea contabilității", "provisions": [],
@@ -933,7 +942,8 @@
           "text": "(1) Persoanele prevăzute la art. 1 alin. (1)-(3) depun un exemplar al situațiilor financiare anuale la organul fiscal competent din subordinea Agenției Naționale de Administrare Fiscală, după cum urmează:\na) societățile reglementate de Legea nr. 31/1990, republicată, cu modificările și completările ulterioare, societățile/companiile naționale, regiile autonome, institutele naționale de cercetare-dezvoltare, subunitățile fără personalitate juridică din România care aparțin unor persoane juridice cu sediul în străinătate, cu excepția subunităților deschise în România de societăți rezidente în state aparținând Spațiului Economic European, până la data de 31 mai inclusiv a exercițiului financiar următor celui de raportare;\nb) celelalte persoane juridice, până la data de 30 aprilie inclusiv a exercițiului financiar următor celui de raportare.\n(1^1) În cazul în care datele prevăzute la alin. (1) sunt zile nelucrătoare, ultima zi de raportare este prima zi lucrătoare următoare acestora. [...]\n(2) Persoanele juridice care de la constituire nu au desfășurat activitate, precum și subunitățile fără personalitate juridică din România care aparțin unor persoane juridice cu sediul în străinătate, care de la constituire nu au desfășurat activitate, depun o declarație în acest sens, în termen de 60 de zile de la încheierea exercițiului financiar, la Agenția Națională de Administrare Fiscală.\n(3) Pe perioada lichidării, persoanele juridice aflate în lichidare, potrivit legii, depun, în termen de 90 de zile de la încheierea fiecărui an calendaristic, la Agenția Națională de Administrare Fiscală o raportare contabilă anuală, al cărei conținut se stabilește prin ordin al ministrului finanțelor publice." }
       ],
       "sources": [
-        { "label": "Legea contabilității nr. 82/1991, forma consolidată la 04.02.2025 (sursa citatelor)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/293379" }
+        { "label": "Legea contabilității nr. 82/1991, forma consolidată la 04.02.2025 (sursa citatelor)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/293379" },
+        { "label": "Legea contabilității 82/1991, republicată, text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/Legea_82_1991.pdf" }
       ] },
     { "id": "l296-2023", "cite": "Legea 296/2023", "name": "Măsuri fiscal-bugetare pentru sustenabilitatea financiară a României", "provisions": [],
       "about": {
@@ -1022,7 +1032,8 @@
       ],
       "sources": [
         { "label": "Legea nr. 296/2023, forma consolidată la 25.02.2026 (sursa citatelor, inclusiv art. LVIII integral)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/307019" },
-        { "label": "Legea nr. 296/2023, forma consolidată la 21.02.2025 (folosită pentru art. LVII)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/294389" }
+        { "label": "Legea nr. 296/2023, forma consolidată la 21.02.2025 (folosită pentru art. LVII)", "url": "https://legislatie.just.ro/Public/DetaliiDocument/294389" },
+        { "label": "Legea 296/2023, forma inițială (octombrie 2023), text integral găzduit de ANAF", "url": "https://static.anaf.ro/static/10/Anaf/legislatie/L_296_2023.pdf" }
       ] }
   ],
 
