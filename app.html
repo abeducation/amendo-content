@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Amenzi Fiscale - Amendo - Google Play</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+</head>
+<body>
+<main>
+<h1>Amenzi Fiscale - Amendo</h1>
+<p>Te trimitem la pagina aplicației din Google Play.</p>
+<p><a id="go" href="https://play.google.com/store/apps/details?id=com.abeducation.amendo">Deschide în Google Play</a></p>
+<p>Aplicație independentă. Amendo nu reprezintă ANAF, Ministerul Finanțelor sau altă instituție publică și nu este afiliată acestora.</p>
+</main>
+<script>
+(function () {
+  // Forwards to the Play listing with a UTM referrer, so Play Console's
+  // "Tracked channels" report splits installs by source (s), medium (m) and
+  // campaign (c). Values are whitelisted; unknown or missing ones fall back.
+  var q = new URLSearchParams(location.search);
+  function clean(v, d) { return (v && /^[a-z0-9_-]{1,40}$/i.test(v)) ? v : d; }
+  var s = clean(q.get('s'), 'site');
+  var m = clean(q.get('m'), 'referral');
+  var c = clean(q.get('c'), 'direct');
+  var ref = encodeURIComponent('utm_source=' + s + '&utm_medium=' + m + '&utm_campaign=' + c);
+  var url = 'https://play.google.com/store/apps/details?id=com.abeducation.amendo&referrer=' + ref;
+  document.getElementById('go').href = url;
+  location.replace(url);
+})();
+</script>
+</body>
+</html>
